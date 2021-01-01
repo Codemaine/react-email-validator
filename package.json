@@ -1,6 +1,6 @@
 {
   "name": "react-email-validator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "a very fast and robust email validator",
   "main": "index.js",
   "scripts": {

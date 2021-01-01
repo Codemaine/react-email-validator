@@ -42,3 +42,35 @@ validate("test.com"); // false
 
 ```
 
+You can also get the result from the `res` variable.
+
+### Usage
+
+```javascript
+
+var validate = require("react-email-validator");
+var res = require("react-email-validator");
+
+validate("test@email.com");
+ if(res){
+     // the email is valid
+ }else {
+     // the email is invalid
+ }
+
+```
+
+#### TypeScript
+
+```typescript
+
+import { validate, res } from 'email-validator';
+
+validate("test@email.com"); // true
+if(res){
+     // the email is valid
+ }else {
+     // the email is invalid
+ }
+
+```
