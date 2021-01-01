@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "echo \"Server running on port http://localhost:8000\""
   },
+  "homework": "https://github.com/Codemaine/react-email-validator",
   "keywords": [
     "email",
     "validator"
