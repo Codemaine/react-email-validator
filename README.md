@@ -1,4 +1,4 @@
-# email-validator
+# react-email-validator
 A simple module to validate an e-mail address
 
 ![travis build](https://img.shields.io/badge/build-passing-brightgreen)
