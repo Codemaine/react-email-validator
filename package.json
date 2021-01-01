@@ -1,0 +1,16 @@
+{
+  "name": "react-email-validator",
+  "version": "1.0.0",
+  "description": "a very fast and robust email validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Server running on port http://localhost:8000\""
+  },
+  "keywords": [
+    "email",
+    "validator"
+  ],
+  "author": "Jermaine",
+  "license": "ISC"
+}
