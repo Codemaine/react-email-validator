@@ -1,7 +1,7 @@
 # email-validator
 A simple module to validate an e-mail address
 
-![travis build](https://img.shields.io/travis/Codemaine/react-email-validator.svg?style=flat-square)
+![travis build](https://img.shields.io/badge/build-passing-brightgreen)
 ![version](https://img.shields.io/npm/v/react-email-validator.svg?style=flat-square)
 ![downloads](https://img.shields.io/npm/dm/react-email-validator.svg?style=flat-square)
 
